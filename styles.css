@@ -1,0 +1,11 @@
+#heading {
+    text-align: center;
+    color: red;
+}
+
+.imagemax {
+    height: 300px;
+    width: auto;
+    display: block;
+    margin: auto;
+}
